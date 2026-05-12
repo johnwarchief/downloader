@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `brave-keyring-1.19-1.noarch.rpm.zip` |
 | **URL** | https://github.com/brave/brave-browser/files/15403891/brave-keyring-1.19-1.noarch.rpm.zip |
-| **Date** | 2026-05-11 22:42:51 UTC |
+| **Date** | 2026-05-12 15:14:35 UTC |
 | **Status** | **FAILED** |
 
 ---
