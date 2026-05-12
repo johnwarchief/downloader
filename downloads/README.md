@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [GeneralsOnline_setup_042826_QFE5_EAC](./GeneralsOnline_setup_042826_QFE5_EAC)
 - [WaifuAcademy-0.13](./WaifuAcademy-0.13)
 - [brave-browser-1.90.121-1.x86_64](./brave-browser-1.90.121-1.x86_64)
 - [brave-keyring-1.19-1.noarch.rpm](./brave-keyring-1.19-1.noarch.rpm)
