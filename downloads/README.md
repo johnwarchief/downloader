@@ -6,6 +6,7 @@
 - [brave-browser-1.90.121-1.x86_64](./brave-browser-1.90.121-1.x86_64)
 - [brave-keyring-1.19-1.noarch.rpm](./brave-keyring-1.19-1.noarch.rpm)
 - [mhrv-rs-linux-amd64.tar](./mhrv-rs-linux-amd64.tar)
+- [server](./server)
 
 ---
 
